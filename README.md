@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Effortdog
+- 👋 Hi, I’m @May
 - 👀 I’m interested in C++
 - 🌱 I’m currently learning C++ and MATLAB
 - 💞️ I’m looking to collaborate on ...
